@@ -128,7 +128,8 @@
     {
       "group": "Privacy",
       "pages": [
-        "privacy/privacy"
+        "privacy/privacy",
+        "security/security",
       ]
     },    
     {
